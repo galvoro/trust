@@ -1,0 +1,33 @@
+{
+  "slug": "ncase_trust",
+  "title": "The Evolution of Trust",
+  "subtitle": "An interactive guide to the game theory of why and how we trust each other.",
+  "type": "PLAY_LEARN",
+  "level": "lower_undergrad",
+  "domain": ["Social Sciences", "Interdisciplinary"],
+  "field": ["Economics", "Complexity Science"],
+  "subdiscipline": ["Behavioral economics", "Agent-based modeling"],
+  "mode": "responsive",
+  "keywords": [
+    "game theory",
+    "trust",
+    "cooperation",
+    "iterated prisoner's dilemma",
+    "tit for tat",
+    "axelrod",
+    "evolution of cooperation",
+    "tournament",
+    "non-zero-sum",
+    "evolutionary game theory"
+  ],
+  "learning_goals": [
+    "Distinguish zero-sum from non-zero-sum interactions, and explain why repeated non-zero-sum play creates space for cooperation that single-shot play does not.",
+    "Compare canonical iterated prisoner's dilemma strategies (Always Cooperate, Always Cheat, Tit-for-Tat, Grim Trigger, Copycat with forgiveness, Detective, etc.) in terms of when each wins and why.",
+    "Identify the structural conditions a society needs to evolve cooperation: repeat encounters, possible win-wins, and low miscommunication — and predict what happens when each is removed."
+  ],
+  "creator": "Nicky Case",
+  "institution": "Independent",
+  "notes": "The Evolution of Trust was created by Nicky Case (https://ncase.me) and released under a Creative Commons Zero (CC0) public domain dedication. It is based on Robert Axelrod's 1984 book *The Evolution of Cooperation*, which itself synthesises results from iterated-prisoner's-dilemma tournaments. Music 'Bleu' by Komiku, also CC0. This Galvoro capsule is a near-verbatim fork: gameplay, copy, art, animation, and audio are unchanged from upstream. Edits are limited to those required by the Galvoro Capsule Contribution Spec — namely, the removal of external social, share, donation, and translation links (which cannot function inside the Galvoro sandbox), removal of off-origin form submissions, and the addition of capsule metadata. All pedagogical and creative credit belongs to Nicky Case.",
+  "external_link": "https://ncase.me/trust/",
+  "license": "CC0-1.0"
+}
